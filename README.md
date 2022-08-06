@@ -39,7 +39,7 @@ masterthesis
 
 - ba_preprocessing_mask.py
 
-- analysis_preprocessing.py
+- dataprep_analysis.py
 - test_param_newfwi.py
 
 *function collections*

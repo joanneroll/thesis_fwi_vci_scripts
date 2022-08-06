@@ -1,5 +1,5 @@
 ##########################################
-#analysing_preprocessing.py
+#dataprep_analysis.py
 
 #resample all relevant datasets to target resolution of sentinel 3
 #temporal extract of the time series for june, july, august, september
